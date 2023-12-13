@@ -4,8 +4,8 @@
 
 
     char str[] = {"hello", "word"};
-    char* p = str;
-    printf("%s\n", p);
+    printf("%s\n", str);
+    printf("\n");
     return (0);
 
 }
